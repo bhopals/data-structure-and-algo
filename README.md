@@ -1,5 +1,7 @@
 ## Data Structure and Algorithms
 
+- Big O Notation
+
 ### Code Execution
 
 - Browser's "Snippet" option
