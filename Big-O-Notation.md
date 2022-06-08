@@ -230,8 +230,13 @@
   - Recursion Sometimes involves Logarithmic Space Complexity
 
 - RECAP
+
   - To Analyze the performance of an Algorithm, we use Big O Notation
   - Big O Notation can give us a high level understanding of the TIME or SPACE complexity of an Algorithm
   - Big O Notation doesn't care about precision, only about general trends(linear? quadratic? constant?)
   - The Time or Space Complexity (as measured by Big O) depends only on the algorithm, not Hardware used to run the Algo.
   - Big O Notation is everywhere, so get lots of practice!
+
+- KEYWORDS
+  - <CONSTANT/Logarithm/LINEAR/Linearithmic/Quadratic/Cubic/Exponential/Factorial> Time COMPLEXITY
+  - <CONSTANT/Logarithm/LINEAR/Linearithmic/Quadratic/Cubic/Exponential/Factorial> (Auxiliary) Space COMPLEXITY
